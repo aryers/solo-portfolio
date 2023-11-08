@@ -58,3 +58,10 @@ li{
 li b{
     color:#2F5A78;
 }
+footer a{
+    color: #E99F4B;
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+}
