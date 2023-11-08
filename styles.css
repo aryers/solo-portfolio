@@ -11,8 +11,10 @@ h1{
 }
 
 h2 {
-  color: #2F5A78;
-  font-size: 20px;
+    color: #2F5A78;
+    font-size: 20px;
+    border-bottom: 1px solid #2F5A78;
+    padding-bottom: 2px;  
 }
 
 #position{
