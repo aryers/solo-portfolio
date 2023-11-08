@@ -65,3 +65,15 @@ footer a{
 footer a:hover{
     text-decoration: underline;
 }
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: #2F5A78;
+    color: #ffffff;
+}
+
+th, td{
+    border: 1px solid #000000;
+}
