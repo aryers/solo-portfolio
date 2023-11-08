@@ -34,3 +34,11 @@ section, footer {
 ul{
     margin: 0;
 }
+#send{
+    border-radius: 5px;
+    border: none;
+    background-color: chocolate;
+    color: azure;
+    padding: 5px 10px;
+    
+}
