@@ -50,3 +50,11 @@ ul{
     padding: 5px 10px;
     
 }
+
+li{
+    margin-bottom: 5px;
+}
+
+li b{
+    color:#2F5A78;
+}
